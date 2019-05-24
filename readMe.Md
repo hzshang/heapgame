@@ -14,6 +14,6 @@ heap games for ctf junior, enjoy~
 |6|offbyone|
 |7|offbynull|
 |8|unlink|
-|9|orange|
+|~~9~~|~~orange~~|
 
 
